@@ -25,3 +25,8 @@ This project aims to create a fun and interactive birthday wish web page using f
 ## Installation
 
 1. Clone the repository
+
+
+
+## See the output
+ [Click](https://bharathipriyan08.github.io/birthday-wish/).
